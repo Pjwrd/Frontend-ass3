@@ -1,0 +1,31 @@
+.mr-md-3 .btn-primary {
+    background: transparent;
+    border: white;
+    color: #ed7812;
+    font-size: 20px;
+    outline: none;
+}
+
+.btn {
+    background: #ed7812;
+    border: none;
+}
+  
+.btn:hover {
+    background: rgb(68, 129, 219);
+    border: none;
+}
+  
+.btn-light {
+    color: white;
+}
+  
+.text-dark {
+   text-decoration: none;
+   border-radius: 5px;
+} 
+
+.text-dark:hover {
+    background: rgb(68, 129, 219);
+}
+
